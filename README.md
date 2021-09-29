@@ -1,1 +1,1 @@
-# OnlineAttendanceManagementSystem
+# StudentMangementSystem
